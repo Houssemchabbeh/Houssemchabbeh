@@ -1,13 +1,13 @@
 {
   "username": "Houssemchabbeh",
-  "generated_at": "2026-07-18T18:15:06Z",
+  "generated_at": "2026-07-19T08:33:56Z",
   "range": {
-    "start": "2025-07-13",
-    "end": "2026-07-18"
+    "start": "2025-07-20",
+    "end": "2026-07-19"
   },
   "total_contributions": 92,
-  "active_days": 22,
-  "avg_per_active_day": 4.2,
+  "active_days": 21,
+  "avg_per_active_day": 4.4,
   "current_streak": {
     "length": 1,
     "start": "2026-07-18",
@@ -25,7 +25,7 @@
   "monthly": [
     {
       "month": "2025-07",
-      "total": 1
+      "total": 0
     },
     {
       "month": "2025-08",
@@ -73,38 +73,10 @@
     },
     {
       "month": "2026-07",
-      "total": 16
+      "total": 17
     }
   ],
   "days": [
-    {
-      "date": "2025-07-13",
-      "count": 0
-    },
-    {
-      "date": "2025-07-14",
-      "count": 0
-    },
-    {
-      "date": "2025-07-15",
-      "count": 0
-    },
-    {
-      "date": "2025-07-16",
-      "count": 0
-    },
-    {
-      "date": "2025-07-17",
-      "count": 1
-    },
-    {
-      "date": "2025-07-18",
-      "count": 0
-    },
-    {
-      "date": "2025-07-19",
-      "count": 0
-    },
     {
       "date": "2025-07-20",
       "count": 0
@@ -1559,7 +1531,11 @@
     },
     {
       "date": "2026-07-18",
-      "count": 10
+      "count": 11
+    },
+    {
+      "date": "2026-07-19",
+      "count": 0
     }
   ]
 }
