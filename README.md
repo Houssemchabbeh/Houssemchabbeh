@@ -29,7 +29,7 @@
 
 <h3><code>houssem@github ~ $ ./links.sh</code></h3>
 
-<p><b>Cloud &amp; Infrastructure Engineer · Automation-First · 8× Certified</b></p>
+<p><b>Cloud &amp; DevOps Engineer · Automation-First · 8× Certified</b></p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-houssemchabbeh.github.io-0d1117?style=for-the-badge&logo=githubpages&logoColor=white)](https://houssemchabbeh.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-houssem--ben--chabbeh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/houssem-ben-chabbeh-22bb02319/)

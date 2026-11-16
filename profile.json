@@ -2,7 +2,7 @@
   "_how_to_update": "Edit this file and push to main. The workflow regenerates info-card.svg and the cert count in README.md. Each inner list under 'certs' is one line on the card; the count is the total number of entries.",
 
   "host": "houssem",
-  "tagline": "Cloud & Infrastructure Engineer · Automation-First",
+  "tagline": "Cloud & DevOps Engineer · Automation-First",
 
   "about": [
     ["Now", "Infra & DevOps Intern @ Eng. Order"],
