@@ -1,6 +1,7 @@
 name: Update profile art
 
-# Refreshes the contribution graph SVG daily from real data.
+# Refreshes the contribution graph SVG daily from real data, and rebuilds the
+# info card + README cert count from profile.json (edit that file to update).
 # Runs daily, plus whenever you push to main, plus on-demand.
 
 "on":
@@ -32,8 +33,11 @@ jobs:
       - name: Render animated contribution graph SVG
         run: python scripts/generate_streak_svg.py Houssemchabbeh contrib-heatmap.svg
 
+      - name: Render info card + README cert count from profile.json
+        run: python scripts/make_info_card.py
+
       - name: Commit updated art
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: refresh contribution graph [skip ci]"
-          file_pattern: "data/contributions.json contrib-heatmap.svg"
+          commit_message: "chore: refresh profile art [skip ci]"
+          file_pattern: "data/contributions.json contrib-heatmap.svg info-card.svg README.md"

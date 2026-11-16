@@ -1,0 +1,32 @@
+{
+  "_how_to_update": "Edit this file and push to main. The workflow regenerates info-card.svg and the cert count in README.md. Each inner list under 'certs' is one line on the card; the count is the total number of entries.",
+
+  "host": "houssem",
+  "tagline": "Cloud & Infrastructure Engineer · Automation-First",
+
+  "about": [
+    ["Now", "Infra & DevOps Intern @ Eng. Order"],
+    ["Also", "Data Science Intern @ MedFlow"],
+    ["Edu", "IT Engineering @ TEK-UP, Tunisia"],
+    ["Focus", "Cloud & Infrastructure Management"]
+  ],
+
+  "stack": [
+    ["Cloud", "AWS, OpenStack"],
+    ["Linux", "RHEL sysadmin, systemd, firewalld, hardening"],
+    ["Automation", "Ansible, Terraform, Jenkins, GitLab CI/CD"],
+    ["Containers", "Kubernetes, Helm, Docker, Podman"],
+    ["Code", "Python, Bash"]
+  ],
+
+  "certs": [
+    ["RHCSA", "RHCE (Linux)", "RHCE (Ansible)"],
+    ["RH Ansible Adv. SysAdmin", "RH Cloud-native Dev"],
+    ["AWS SAA", "AWS DVA", "PCAP"]
+  ],
+
+  "projects": [
+    "Doura: serverless virtual-queue platform on AWS",
+    "Multi-AZ gaming platform on AWS with Terraform"
+  ]
+}

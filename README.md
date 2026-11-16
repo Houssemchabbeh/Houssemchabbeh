@@ -2,7 +2,8 @@
 
 <!-- hero: monochrome ASCII portrait (types in) beside a neofetch-style info
      panel. regenerate portrait: python scripts/prep_photo.py <photo> &&
-     python scripts/make_ascii_svg.py ; info panel: python scripts/make_info_card.py -->
+     python scripts/make_ascii_svg.py ; info panel + cert count below: edit
+     profile.json and push (the workflow runs scripts/make_info_card.py) -->
 
 <!-- animated contribution graph: real data, boxes reveal cell by cell
      (regenerated daily by .github/workflows/update-profile-art.yml) -->
@@ -28,11 +29,11 @@
 
 <h3><code>houssem@github ~ $ ./links.sh</code></h3>
 
-<p><b>Cloud & Infrastructure Engineer · Automation-First · 7× Certified</b></p>
+<p><b>Cloud &amp; Infrastructure Engineer · Automation-First · 8× Certified</b></p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-houssemchabbeh.github.io-0d1117?style=for-the-badge&logo=githubpages&logoColor=white)](https://houssemchabbeh.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-houssem--ben--chabbeh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/houssem-ben-chabbeh-22bb02319/)
-[![Credly](https://img.shields.io/badge/Credly-7_active_badges-ee6123?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/houssem-ben-chabbeh)
+[![Credly](https://img.shields.io/badge/Credly-8_active_certs-ee6123?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/houssem-ben-chabbeh)
 [![Email](https://img.shields.io/badge/Email-houssemchabbeh33@gmail.com-3fb950?style=for-the-badge&logo=gmail&logoColor=white)](mailto:houssemchabbeh33@gmail.com)
 
 <br>
